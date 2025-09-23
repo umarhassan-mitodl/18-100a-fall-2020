@@ -1,0 +1,34 @@
+---
+content_type: video_gallery
+draft: false
+title: Lecture Videos
+uid: 02693778-9f09-4818-9933-e4b7689b4c27
+videos:
+  content:
+  - 7b9a5003-36e9-4d0f-8b84-20ef9762189e
+  - 8f7d06cd-a1ee-48af-8219-dc3ceeba55cc
+  - 4d372448-a624-49fe-b85c-32a226f2ce4d
+  - 24675063-3638-418a-843d-57fbd8e75837
+  - 1875ef16-2f16-414c-aa74-f1f542ae5242
+  - 1988e901-621e-49bb-ae09-11332a310e0f
+  - a71bbc9c-145d-4432-8b1a-c2a5e507cc40
+  - 18e9b8cf-acfe-4c88-8ee7-f2196dedcc3a
+  - f5217154-96b3-4aa6-884c-d0d422e68787
+  - a4107c45-e4f9-4cc4-8306-1bc871289540
+  - 4b28a9c1-d7a9-4eba-945e-fc13984b2f86
+  - fdd475ca-c5ca-4440-8521-6e568bf43282
+  - b6e6b343-d096-4992-bfb9-6ba0f520931b
+  - 1498d10a-b06c-43c7-b806-eec6607c274d
+  - 3c6a329c-8d04-4e26-b9a9-82a730d70476
+  - e94ff385-dd21-4f53-9644-d15616098b19
+  - 6b6997e1-a276-4bbd-be5c-09ce311710a1
+  - 12504165-b691-4ccd-8840-3a5ab3ec1b8f
+  - 85f1b2e7-64d2-4918-9eb4-d40e4992410c
+  - 174da1dd-ed24-4388-be3e-0d405312c701
+  - 2d778c4e-268e-4c46-a3ac-a36bad128558
+  - 7dbae9a2-ff53-4692-8ff6-7b8565467cb8
+  - f872f46c-a220-4ce5-8aeb-8efe05179fff
+  - 9ed453eb-b2a3-4450-9d68-fbb73a4f71eb
+  - 8a6deb50-bbb9-42fc-b6c7-39667340d55b
+  website: 18100a-real-analysis-fall-2020
+---
