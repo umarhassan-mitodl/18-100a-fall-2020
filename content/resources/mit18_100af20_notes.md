@@ -6,8 +6,6 @@ draft: ''
 file: /courses/18-100a-real-analysis-fall-2020/mit18_100af20_notes.zip
 file_size: 78783
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
