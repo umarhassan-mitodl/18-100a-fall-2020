@@ -24,7 +24,7 @@ This course covers the fundamentals of mathematical analysis: convergence of seq
 
 Lebl, Jiří. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401.
 
-This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
+This book is available as {{% resource_link "3f266892-81b0-4bb3-9654-f65ce3fd459b" "a free PDF download" %}}. You can purchase a paper copy by following a link at the same site.
 
 ## Homework and Exams
 
