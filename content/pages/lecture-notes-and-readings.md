@@ -11,7 +11,7 @@ Lebl, Jiří. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. Creat
 
 \[JL\] = {{% resource_link "c803616b-7abe-4c5b-b4f7-2032dd9e3389" "Basic Analysis: Introduction to Real Analysis (Vol. 1) (PDF - 2.2MB)" %}} by Jiří Lebl, June 2021 (used with permission)
 
-This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
+This book is available as {{% resource_link "3f266892-81b0-4bb3-9654-f65ce3fd459b" "a free PDF download" %}}. You can purchase a paper copy by following a link at the same site.
 
 ## Lecture Notes
 
